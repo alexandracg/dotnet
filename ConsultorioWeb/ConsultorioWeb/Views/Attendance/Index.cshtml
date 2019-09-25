@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ConsultorioWeb.Models.Attendance>
+
+@{
+    ViewData["Title"] = "Atendimento";
+}
+
+<h2>Atendimentos</h2>
+
+@if (TempData["notification"] != null)
+{
+    <div id="notification" class="alert alert-success" role="alert">
+        @TempData["notification"]
+    </div>
+}
+
+<a asp-controller="Attendance" asp-action="Create">Agendar procedimento</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">NOME PACIENTE</th>
+            <th scope="col">NOME PROCEDIMENTO</th>
+            <th scope="col">EDITAR</th>
+            <th scope="col">ATENDER</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var attendance in Model)
+        {
+            <tr>
+                <th>@attendance.Id</th>
+                <td>@attendance.Paciente</td>
+                <td>@attendance.Procedimento</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@attendance.Id">
+                        Editar
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@attendance.Id">
+                        Atender
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            setTimeout(function () {
+                $("#notification").fadeOut("slow");
+            }, 3000);
+        });
+    </script>
+}
+

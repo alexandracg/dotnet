@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\bin\Debug\netcoreapp2.1\ClinicControl.deps.json
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\bin\Debug\netcoreapp2.1\ClinicControl.runtimeconfig.json
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\bin\Debug\netcoreapp2.1\ClinicControl.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\bin\Debug\netcoreapp2.1\ClinicControl.dll
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\bin\Debug\netcoreapp2.1\ClinicControl.pdb
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\obj\Debug\netcoreapp2.1\ClinicControl.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\obj\Debug\netcoreapp2.1\ClinicControl.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\obj\Debug\netcoreapp2.1\ClinicControl.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\obj\Debug\netcoreapp2.1\ClinicControl.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\obj\Debug\netcoreapp2.1\ClinicControl.dll
+C:\Users\Alex\source\repos\ClinicControl\ClinicControl\obj\Debug\netcoreapp2.1\ClinicControl.pdb

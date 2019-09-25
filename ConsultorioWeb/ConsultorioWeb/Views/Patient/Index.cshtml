@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ConsultorioWeb.Models.Patient>
+
+@{
+    ViewData["Title"] = "Paciente";
+}
+
+<h1>Pacientes</h1>
+
+@if (TempData["notification"] != null)
+{
+    <div id="notification" class="alert alert-success" role="alert">
+        @TempData["notification"]
+    </div>
+}
+
+<a asp-controller="Patient" asp-action="Create">Novo paciente</a>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">NAME</th>
+            <th scope="col">EDITAR</th>
+            <th scope="col">DELETAR</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <th>@patient.Id</th>
+                <td>@patient.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@patient.Id">
+                        Editar
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@patient.Id">
+                        Deletar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            setTimeout(function () {
+                $("#notification").fadeOut("slow");
+            }, 3000);
+        });
+    </script>
+}

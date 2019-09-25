@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ConsultorioWeb.Models.Procedure>
+
+@{
+    ViewData["Title"] = "Procedimento";
+}
+
+<h2>Index</h2>
+
+<a asp-controller="Attendance" asp-action="Create">Agendar procedimento</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">NAME</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var procedure in Model)
+        {
+            <tr>
+                <th>@procedure.Id</th>
+                <td>@procedure.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

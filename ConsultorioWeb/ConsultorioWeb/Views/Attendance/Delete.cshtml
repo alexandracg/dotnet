@@ -1,0 +1,38 @@
+﻿@model ConsultorioWeb.Models.Attendance
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Atender</h1>
+
+<h3>Voçê deseja realizar esse atendimento?</h3>
+<div>
+    <h4>Atendimento</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Paciente)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Paciente)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Procedimento)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Procedimento)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="submit" value="Atender" class="btn btn-primary" /> |
+        <a asp-action="Index">Voltar</a>
+    </form>
+</div>
