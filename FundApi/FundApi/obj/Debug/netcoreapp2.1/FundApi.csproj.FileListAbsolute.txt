@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\FundApi.deps.json
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\FundApi.runtimeconfig.json
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\FundApi.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\FundApi.dll
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.RazorAssemblyInfo.cache
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.RazorAssemblyInfo.cs
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.AssemblyInfo.cs
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.RazorTargetAssemblyInfo.cache
+C:\Users\Alex\source\repos\FundApi\FundApi\bin\Debug\netcoreapp2.1\FundApi.pdb
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.dll
+C:\Users\Alex\source\repos\FundApi\FundApi\obj\Debug\netcoreapp2.1\FundApi.pdb
