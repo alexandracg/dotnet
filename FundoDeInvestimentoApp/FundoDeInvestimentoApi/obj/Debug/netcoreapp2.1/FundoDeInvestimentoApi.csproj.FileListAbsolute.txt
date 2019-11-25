@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\FundoDeInvestimentoApi.deps.json
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\FundoDeInvestimentoApi.runtimeconfig.json
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\FundoDeInvestimentoApi.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\FundoDeInvestimentoApi.dll
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.RazorAssemblyInfo.cache
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.RazorAssemblyInfo.cs
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.AssemblyInfo.cs
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\bin\Debug\netcoreapp2.1\FundoDeInvestimentoApi.pdb
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.dll
+C:\Users\Alex\source\repos\FundoDeInvestimentoApp\FundoDeInvestimentoApi\obj\Debug\netcoreapp2.1\FundoDeInvestimentoApi.pdb
